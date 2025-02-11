@@ -16,10 +16,10 @@
 <h3 align="center"><strong>Back-End || Front-End || FullStack </strong> Developer 💻</h3>
 
 <p align="center">
-  <strong>ADS SENAC/3° Período </strong><br>
-  <strong>Engenharia Mecâcina UFRPE/7° Período </strong><br>
-  <strong>O que você vem estudando ( Linguagem de programação: Java, JavaScript, Python, React...)</strong>📚<br>
-  <strong>Seus conhecimentos (HTML, CSS)</strong>🚀<br>
+  <strong>ADS SENAC/3° Period </strong><br>
+  <strong>Mech Engineering UFRPE/7° Period </strong><br>
+  <strong>Learning (Java, JavaScript, Python, React...)</strong>📚<br>
+  <strong>Knowledge (HTML, CSS)</strong>🚀<br>
 </p>
 
 <div align="center">
